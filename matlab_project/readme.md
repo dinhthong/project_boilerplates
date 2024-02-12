@@ -1,6 +1,6 @@
 # Description
 - This project is used for ...
-- `keilkill.bat` is a windows script used for cleaning project builds. Very commonly used in Chinese embedded community
+
 # Project contributors
 1. Nguyen Dinh Thong
 Mail: nguyendinhthongit@gmail.com
